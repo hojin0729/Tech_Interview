@@ -22,3 +22,6 @@
 
 ## 가로 배열, 세로 배열
 > Row(), Column()
+
+## margin
+> EdgeInsets.fromLTRB()
